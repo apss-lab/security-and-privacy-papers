@@ -1,4 +1,9 @@
-# Security and privacy papers list 
+# Must-Read Security and Privacy Papers
+
+This is a list of important papers in the field of privacy and secuirty, grouped by topic.
+This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-papers) 
+We welcome any feedback.
+
 
 ### List of topics: 
 - [Smart Homes & IoT](#smart-homes-and-iot)
