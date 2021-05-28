@@ -1,6 +1,28 @@
 # Security and privacy papers list 
 
-### Smart Homes & IoT
+### List of topics: 
+- [Smart Homes & IoT](#smart-homes-and-iot)
+	- Spying with Wifi
+	- Access control
+	- Skills squatting 
+- [Collaborative Learning](#collaborative-learning)
+	- Federated learning
+	- Homomorphic Encryption
+	- Secret Sharing
+- [Differential Privacy](#differential-privacy)
+- [Membership Inference](#membership-inference)
+- [Computer Vision](#computer-vision)
+	- General
+	- Connected and Autonomous Vehicles
+- [ASR](#asr)
+	- General
+	- Hidden voice commands
+	- Privacy-preserving speech processing
+-  [Android and IOS security](#android-and-ios-security)
+
+---
+
+### Smart Homes and IoT
 
 #### Spying with Wifi
 - Demetriou, Soteris, et al. "HanGuard: SDN-driven protection of smart home WiFi devices from malicious mobile apps." _Proceedings of the 10th ACM Conference on Security and Privacy in Wireless and Mobile Networks_. 2017.
