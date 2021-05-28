@@ -6,7 +6,6 @@
 - Demetriou, Soteris, et al. "HanGuard: SDN-driven protection of smart home WiFi devices from malicious mobile apps." _Proceedings of the 10th ACM Conference on Security and Privacy in Wireless and Mobile Networks_. 2017.
 - Adib, Fadel, and Dina Katabi. "See through walls with WiFi!." _Proceedings of the ACM SIGCOMM 2013 Conference on SIGCOMM_. 2013.
 
-
 #### Access control
 - He, Weijia, et al. "Rethinking access control and authentication for the home internet of things (iot)." _27th {USENIX} Security Symposium ({USENIX} Security 18)_. 2018.
 - Fernandes, Earlence, Jaeyeon Jung, and Atul Prakash. "Security analysis of emerging smart home applications." _2016 IEEE symposium on security and privacy (SP)_. IEEE, 2016.
@@ -45,14 +44,6 @@
 -  Cao, Yulong, et al. "Adversarial sensor attack on lidar-based perception in autonomous driving." _Proceedings of the 2019 ACM SIGSAC conference on computer and communications security_. 2019.
 - Eykholt, Kevin, et al. "Robust physical-world attacks on deep learning visual classification." _Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition_. 2018.
 
-### Android and IOS security 
-- Demetriou, Soteris, et al. "Free for All! Assessing User Data Exposure to Advertising Libraries on Android." _NDSS_. 2016.
-- Jang, Yeongjin, et al. "A11y attacks: Exploiting accessibility in operating systems." _Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security_. 2014.
-- Zhou, Xiaoyong, et al. "Identity, location, disease and more: Inferring your secrets from android public resources." _Proceedings of the 2013 ACM SIGSAC conference on Computer & communications security_. 2013.
-- Pandita, R., Xiao, X., Yang, W., Enck, W., & Xie, T. (2013). {WHYPER}: Towards automating risk assessment of mobile applications. In _22nd {USENIX} Security Symposium ({USENIX} Security 13)_ (pp. 527-542).
-- Grace, Michael C., et al. "Unsafe exposure analysis of mobile in-app advertisements." _Proceedings of the fifth ACM conference on Security and Privacy in Wireless and Mobile Networks_. 2012.
-- 
-
 ### ASR 
 #### General
 - Abdullah, Hadi, et al. "The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems." arXiv preprint arXiv:2007.06622 (2020).
@@ -65,3 +56,10 @@
 
 #### Privacy-preserving speech processing
 - Aloufi, Ranya, Hamed Haddadi, and David Boyle. "Emotionless: privacy-preserving speech analysis for voice assistants." _arXiv preprint arXiv:1908.03632_ (2019).
+
+### Android and IOS security 
+- Demetriou, Soteris, et al. "Free for All! Assessing User Data Exposure to Advertising Libraries on Android." _NDSS_. 2016.
+- Jang, Yeongjin, et al. "A11y attacks: Exploiting accessibility in operating systems." _Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security_. 2014.
+- Zhou, Xiaoyong, et al. "Identity, location, disease and more: Inferring your secrets from android public resources." _Proceedings of the 2013 ACM SIGSAC conference on Computer & communications security_. 2013.
+- Pandita, R., Xiao, X., Yang, W., Enck, W., & Xie, T. (2013). {WHYPER}: Towards automating risk assessment of mobile applications. In _22nd {USENIX} Security Symposium ({USENIX} Security 13)_ (pp. 527-542).
+- Grace, Michael C., et al. "Unsafe exposure analysis of mobile in-app advertisements." _Proceedings of the fifth ACM conference on Security and Privacy in Wireless and Mobile Networks_. 2012.
