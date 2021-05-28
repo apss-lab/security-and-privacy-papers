@@ -1,4 +1,4 @@
-# Privacy and security papers list 
+# Security and privacy papers list 
 
 ### List of topics: 
 - [Smart Homes & IoT](#smart-homes-and-iot)
