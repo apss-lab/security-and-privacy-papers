@@ -13,7 +13,7 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
 	- Federated learning
 	- Homomorphic Encryption
 	- Secret Sharing
-- Trusted Execution Environment
+- Trusted Computing
 - [Differential Privacy](#differential-privacy)
 - [Membership Inference](#membership-inference)
 - [Computer Vision](#computer-vision)
