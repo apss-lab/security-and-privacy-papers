@@ -71,6 +71,22 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
 -  Cao, Yulong, et al. "Adversarial sensor attack on lidar-based perception in autonomous driving." _Proceedings of the 2019 ACM SIGSAC conference on computer and communications security_. 2019.
 - Eykholt, Kevin, et al. "Robust physical-world attacks on deep learning visual classification." _Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition_. 2018.
 
+#### 3D object detectors
+##### BEV-based detectors
+- Ming Liang, Bin Yang, Shenlong Wang, and Raquel Urtasun.  Deep continuous fusion formulti-sensor 3d object detection. InProceedings of the European Conference on ComputerVision (ECCV), pages 641–656, 2018.
+- Gregory P Meyer, Ankit Laddha, Eric Kee, Carlos Vallespi-Gonzalez, and Carl K Welling-ton.  Lasernet:  An efficient probabilistic 3d object detector for autonomous driving.  InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages12677–12686, 2019.
+- Bin Yang, Wenjie Luo, and Raquel Urtasun.  Pixor:  Real-time 3d object detection frompoint  clouds.   InProceedings of the IEEE conference on Computer Vision and PatternRecognition, pages 7652–7660, 2018.
+##### Voxel-based detectors
+- Alex H Lang, Sourabh Vora, Holger Caesar, Lubing Zhou, Jiong Yang, and Oscar Beijbom.Pointpillars:  Fast encoders for object detection from point clouds.  InProceedings of theIEEE Conference on Computer Vision and Pattern Recognition, pages 12697–12705, 2019.
+- Johannes  Lehner,  Andreas  Mitterecker,  Thomas  Adler,  Markus  Hofmarcher,  BernhardNessler, and  Sepp  Hochreiter.   Patch  refinement–localized  3d  object  detection.arXivpreprint arXiv:1910.04093, 2019.
+- Bei Wang, Jianping An, and Jiayan Cao.  Voxel-fpn:  multi-scale voxel feature aggregationin 3d object detection from point clouds.arXiv preprint arXiv:1907.05286, 2019.
+- Yan Yan, Yuxing Mao, and Bo Li.  Second:  Sparsely embedded convolutional detection.Sensors, 18(10):3337, 2018.
+##### 3D-point cloud based detectors
+- Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, and Jiaya Jia.  Std:  Sparse-to-dense3d object detector for point cloud.  InProceedings of the IEEE International Conferenceon Computer Vision, pages 1951–1960, 2019.
+- Yilun Chen, Shu Liu, Xiaoyong Shen, and Jiaya Jia.  Fast point r-cnn.  InProceedings ofthe IEEE International Conference on Computer Vision, pages 9775–9784, 2019.
+- Shaoshuai Shi, Xiaogang Wang, and Hongsheng Li. Pointrcnn:  3d object proposal genera-tion and detection from point cloud. InProceedings of the IEEE Conference on ComputerVision and Pattern Recognition, pages 770–779, 2019.
+- Shaoshuai Shi, Zhe Wang, Jianping Shi, Xiaogang Wang, and Hongsheng Li. From points toparts: 3d object detection from point cloud with part-aware and part-aggregation network.arXiv preprint arXiv:1907.03670, 2019.
+
 ### ASR 
 #### General
 - Abdullah, Hadi, et al. "The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems." arXiv preprint arXiv:2007.06622 (2020).
