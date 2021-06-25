@@ -77,24 +77,24 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
 - Chaman, Anadi, et al. "Ghostbuster: Detecting the presence of hidden eavesdroppers." Proceedings of the 24th Annual International Conference on Mobile Computing and Networking. 2018.
 - Chaowei Xiao, Ruizhi Deng, Bo Li, Taesung Lee, Benjamin Edwards, Jinfeng Yi, Dawn Song, Mingyan Liu, and Ian Molloy. 2019. Advit: Adversarial frames identifier based on temporal consistency in videos. In Proceedings of the IEEE/CVF International Conference on Computer Vision. 3968–3977.
 
-#### 3D Motion predictors
+#### 3D Motion Predictors
 - Pengxiang Wu, Siheng Chen, and Dimitris N Metaxas. 2020. MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird’s Eye View Maps. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 11385–11395.
 - Gu, Xiuye, et al. "Hplflownet: Hierarchical permutohedral lattice flownet for scene flow estimation on large-scale point clouds." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
 - Djuric, Nemanja, et al. "MultiNet: Multiclass multistage multimodal motion prediction." arXiv preprint arXiv:2006.02000 (2020).
 - Behl, Aseem, et al. "Pointflownet: Learning representations for rigid motion estimation from point clouds." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
 - Liu, Xingyu, Charles R. Qi, and Leonidas J. Guibas. "Flownet3d: Learning scene flow in 3d point clouds." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
 
-#### 3D object detectors
-##### BEV-based detectors
+#### 3D Object Detectors
+##### BEV-based Detectors
 - Ming Liang, Bin Yang, Shenlong Wang, and Raquel Urtasun.  Deep continuous fusion formulti-sensor 3d object detection. InProceedings of the European Conference on ComputerVision (ECCV), pages 641–656, 2018.
 - Gregory P Meyer, Ankit Laddha, Eric Kee, Carlos Vallespi-Gonzalez, and Carl K Welling-ton.  Lasernet:  An efficient probabilistic 3d object detector for autonomous driving.  InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages12677–12686, 2019.
 - Bin Yang, Wenjie Luo, and Raquel Urtasun.  Pixor:  Real-time 3d object detection frompoint  clouds.   InProceedings of the IEEE conference on Computer Vision and PatternRecognition, pages 7652–7660, 2018.
-##### Voxel-based detectors
+##### Voxel-based Detectors
 - Alex H Lang, Sourabh Vora, Holger Caesar, Lubing Zhou, Jiong Yang, and Oscar Beijbom.Pointpillars:  Fast encoders for object detection from point clouds.  InProceedings of theIEEE Conference on Computer Vision and Pattern Recognition, pages 12697–12705, 2019.
 - Johannes  Lehner,  Andreas  Mitterecker,  Thomas  Adler,  Markus  Hofmarcher,  BernhardNessler, and  Sepp  Hochreiter.   Patch  refinement–localized  3d  object  detection.arXivpreprint arXiv:1910.04093, 2019.
 - Bei Wang, Jianping An, and Jiayan Cao.  Voxel-fpn:  multi-scale voxel feature aggregationin 3d object detection from point clouds.arXiv preprint arXiv:1907.05286, 2019.
 - Yan Yan, Yuxing Mao, and Bo Li.  Second:  Sparsely embedded convolutional detection.Sensors, 18(10):3337, 2018.
-##### 3D-point cloud based detectors
+##### 3D-point Cloud Based Detectors
 - Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, and Jiaya Jia.  Std:  Sparse-to-dense3d object detector for point cloud.  InProceedings of the IEEE International Conferenceon Computer Vision, pages 1951–1960, 2019.
 - Yilun Chen, Shu Liu, Xiaoyong Shen, and Jiaya Jia.  Fast point r-cnn.  InProceedings ofthe IEEE International Conference on Computer Vision, pages 9775–9784, 2019.
 - Shaoshuai Shi, Xiaogang Wang, and Hongsheng Li. Pointrcnn:  3d object proposal genera-tion and detection from point cloud. InProceedings of the IEEE Conference on ComputerVision and Pattern Recognition, pages 770–779, 2019.
