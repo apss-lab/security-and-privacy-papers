@@ -67,9 +67,22 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
 - Alexey Kurakin, Ian J. Goodfellow, and Samy Bengio. Adversarial machine learning at scale. In International Conference on Learning Representations (ICLR), 2017.
 
 #### Connected and Autonomous Vehicles
+- Yulong Cao, Jiaxiang Ma, Kevin Fu, Rampazzi Sara, and Morley Mao. 2021. Automated Tracking System For LiDAR Spoofing Attacks On Moving Targets. (2021)
+- Hallyburton, R. Spencer, Yupei Liu, and Miroslav Pajic. "Security Analysis of Camera-LiDAR Semantic-Level Fusion Against Black-Box Attacks on Autonomous Vehicles." arXiv preprint arXiv:2106.07098 (2021).
+- Liu, Jinshan, and Jerry Park. "" Seeing is not Always Believing": Detecting Perception Error Attacks Against Autonomous Vehicles." IEEE Transactions on Dependable and Secure Computing (2021).
 - Sun, Jiachen, et al. "Towards robust lidar-based perception in autonomous driving: General black-box adversarial sensor attack and countermeasures." _29th {USENIX} Security Symposium ({USENIX} Security 20)_. 2020.
 -  Cao, Yulong, et al. "Adversarial sensor attack on lidar-based perception in autonomous driving." _Proceedings of the 2019 ACM SIGSAC conference on computer and communications security_. 2019.
+- Hocheol Shin, Dohyun Kim, Yujin Kwon, and Yongdae Kim. 2017. Illusion and dazzle: Adversarial optical channel exploits against lidars for automotive applications. In International Conference on Cryptographic Hardware and Embedded Systems. Springer, 445–467.
 - Eykholt, Kevin, et al. "Robust physical-world attacks on deep learning visual classification." _Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition_. 2018.
+- Chaman, Anadi, et al. "Ghostbuster: Detecting the presence of hidden eavesdroppers." Proceedings of the 24th Annual International Conference on Mobile Computing and Networking. 2018.
+- Chaowei Xiao, Ruizhi Deng, Bo Li, Taesung Lee, Benjamin Edwards, Jinfeng Yi, Dawn Song, Mingyan Liu, and Ian Molloy. 2019. Advit: Adversarial frames identifier based on temporal consistency in videos. In Proceedings of the IEEE/CVF International Conference on Computer Vision. 3968–3977.
+
+#### 3D Motion predictor
+- Pengxiang Wu, Siheng Chen, and Dimitris N Metaxas. 2020. MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird’s Eye View Maps. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 11385–11395.
+- Gu, Xiuye, et al. "Hplflownet: Hierarchical permutohedral lattice flownet for scene flow estimation on large-scale point clouds." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
+- Djuric, Nemanja, et al. "MultiNet: Multiclass multistage multimodal motion prediction." arXiv preprint arXiv:2006.02000 (2020).
+- Behl, Aseem, et al. "Pointflownet: Learning representations for rigid motion estimation from point clouds." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
+- Liu, Xingyu, Charles R. Qi, and Leonidas J. Guibas. "Flownet3d: Learning scene flow in 3d point clouds." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
 
 #### 3D object detectors
 ##### BEV-based detectors
