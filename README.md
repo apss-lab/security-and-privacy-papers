@@ -77,7 +77,7 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
 - Chaman, Anadi, et al. "Ghostbuster: Detecting the presence of hidden eavesdroppers." Proceedings of the 24th Annual International Conference on Mobile Computing and Networking. 2018.
 - Chaowei Xiao, Ruizhi Deng, Bo Li, Taesung Lee, Benjamin Edwards, Jinfeng Yi, Dawn Song, Mingyan Liu, and Ian Molloy. 2019. Advit: Adversarial frames identifier based on temporal consistency in videos. In Proceedings of the IEEE/CVF International Conference on Computer Vision. 3968–3977.
 
-#### 3D Motion predictor
+#### 3D Motion predictors
 - Pengxiang Wu, Siheng Chen, and Dimitris N Metaxas. 2020. MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird’s Eye View Maps. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 11385–11395.
 - Gu, Xiuye, et al. "Hplflownet: Hierarchical permutohedral lattice flownet for scene flow estimation on large-scale point clouds." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
 - Djuric, Nemanja, et al. "MultiNet: Multiclass multistage multimodal motion prediction." arXiv preprint arXiv:2006.02000 (2020).
