@@ -24,6 +24,7 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
 	- Hidden voice commands
 	- Privacy-preserving speech processing
 -  [Android and IOS security](#android-and-ios-security)
+- [Other](#other)
 
 ---
 
@@ -119,3 +120,6 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
 - Zhou, Xiaoyong, et al. "Identity, location, disease and more: Inferring your secrets from android public resources." _Proceedings of the 2013 ACM SIGSAC conference on Computer & communications security_. 2013.
 - Pandita, R., Xiao, X., Yang, W., Enck, W., & Xie, T. (2013). {WHYPER}: Towards automating risk assessment of mobile applications. In _22nd {USENIX} Security Symposium ({USENIX} Security 13)_ (pp. 527-542).
 - Grace, Michael C., et al. "Unsafe exposure analysis of mobile in-app advertisements." _Proceedings of the fifth ACM conference on Security and Privacy in Wireless and Mobile Networks_. 2012.
+
+# Other 
+[Awesome Attacks on Machine Learning Privacy](https://github.com/stratosphereips/awesome-ml-privacy-attacks)
