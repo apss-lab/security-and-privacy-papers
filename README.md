@@ -23,7 +23,8 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
 	- General
 	- Hidden voice commands
 	- Privacy-preserving speech processing
--  [Android and IOS security](#android-and-ios-security)
+- [Android and IOS security](#android-and-ios-security)
+- [Fakes on Online Social Networks]
 - [Other](#other)
 
 ---
@@ -120,6 +121,12 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
 - Zhou, Xiaoyong, et al. "Identity, location, disease and more: Inferring your secrets from android public resources." _Proceedings of the 2013 ACM SIGSAC conference on Computer & communications security_. 2013.
 - Pandita, R., Xiao, X., Yang, W., Enck, W., & Xie, T. (2013). {WHYPER}: Towards automating risk assessment of mobile applications. In _22nd {USENIX} Security Symposium ({USENIX} Security 13)_ (pp. 527-542).
 - Grace, Michael C., et al. "Unsafe exposure analysis of mobile in-app advertisements." _Proceedings of the fifth ACM conference on Security and Privacy in Wireless and Mobile Networks_. 2012.
+
+### Fakes on Online Social Networks 
+- Zarei, Koosha & Farahbakhsh, Reza & Crespi, Noel & Tyson, Gareth. (2020). Impersonation on Social Media: A Deep Neural Approach to Identify Ingenuine Content. 10.1109/ASONAM49781.2020.9381437. 
+- Mariconti, Enrico & Onaolapo, Jeremiah & Ahmad, Syed & Nikiforou, Nicolas & Egele, Manuel & Nikiforakis, Nick & Stringhini, Gianluca. (2017). What's in a Name?: Understanding Profile Name Reuse on Twitter. 1161-1170. 10.1145/3038912.3052589. 
+- Mariconti, Enrico & Onaolapo, Jeremiah & Ahmad, Syed & Nikiforou, Nicolas & Egele, Manuel & Nikiforakis, Nick & Stringhini, Gianluca. (2016). Why allowing profile name reuse is a bad idea. 1-6. 10.1145/2905760.2905762. 
+- Goga, Oana & Venkatadri, Giridhari & Gummadi, Krishna P.. (2015). The Doppelgänger Bot Attack. 141-153. 10.1145/2815675.2815699. 
 
 # Other 
 [Awesome Attacks on Machine Learning Privacy](https://github.com/stratosphereips/awesome-ml-privacy-attacks)
